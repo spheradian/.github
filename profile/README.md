@@ -28,4 +28,4 @@ Spheradian is an **early prototype (v0.0.1)**. It runs as a regular window on yo
 - **Contributing:** start with the [contributing guide](https://github.com/spheradian/spheradian/blob/main/CONTRIBUTING.md). Platform reports, especially from BSD, non-Mesa drivers, and HiDPI setups, are very welcome.
 - **Security:** please report vulnerabilities privately as described in the [security policy](https://github.com/spheradian/spheradian/blob/main/SECURITY.md), never in public issues.
 
-All projects are released under the MIT License.
+All projects are released under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). The Spheradian and SpheradianOS names and logos are not covered by the code licence.
